@@ -32,7 +32,7 @@
 "description":"요동봇을 장착합니다. 발사하면 요동봇의 정신과 연결되어 요동봇을 적 진영으로 조종합니다. 활성화하면 앞으로 돌진해 폭발하며 좁은 범위 안에 있는 적을 모두 구속합니다. 요동봇은 지속시간이 끝나면 작은 구체로 되돌아갑니다. 상호작용하면 구체를 회수하며, 짧은 재사용 대기시간 이후 요동봇을 다시 사용할 수 있습니다. 요동봇은 한 번만 회수할 수 있습니다.",
 "displayIcon":"https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":2.717865,"maxDuration":2.717865,"mediaList":[{"id":464327068,"wwise":"https://media.valorant-api.com/sounds/464327068.wem",
 "wave":"https://media.valorant-api.com/sounds/464327068.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"dade69b4-4f5a-8528-247b-219e5a1facd6",
 "displayName":"페이드",
@@ -67,7 +67,7 @@
 "description":"공포의 힘을 장착합니다. 발사하면 벽을 통과하는 악몽의 에너지 파동을 보냅니다. 에너지가 적에게 닿으면 흔적을 남기며 청력을 약화시키고 부패 효과를 적용합니다.",
 "displayIcon":"https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":2.578,"maxDuration":2.578,"mediaList":[{"id":963067082,"wwise":"https://media.valorant-api.com/sounds/963067082.wem",
 "wave":"https://media.valorant-api.com/sounds/963067082.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"5f8d3a7f-467b-97f3-062c-13acf203c006",
 "displayName":"브리치",
@@ -102,7 +102,7 @@
 "description":"지진탄을 장착합니다. 발사하면 모든 지형을 통과하는 지진 파동을 날려 경로상에 있는 모든 적을 멍하게 하고 공중으로 띄웁니다.",
 "displayIcon":"https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":2.456469,"maxDuration":2.456469,"mediaList":[{"id":802792402,"wwise":"https://media.valorant-api.com/sounds/802792402.wem",
 "wave":"https://media.valorant-api.com/sounds/802792402.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
 "displayName":"데드록",
@@ -137,7 +137,7 @@
 "description":"나노와이어 가속기를 장착합니다. 발사하면 처음 적중한 적을 생포하는 나노와이어 펄스를 발사합니다. 생포된 적은 나노와이어의 경로를 따라 끌려가며, 끝에 도달하기 전에 풀려나지 않으면 사망합니다. 나노와이어 고치는 파괴할 수 있습니다.",
 "displayIcon":"https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.761667,"maxDuration":1.761667,"mediaList":[{"id":727149664,"wwise":"https://media.valorant-api.com/sounds/727149664.wem",
 "wave":"https://media.valorant-api.com/sounds/727149664.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"f94c3b30-42be-e959-889c-5aa313dba261",
 "displayName":"레이즈",
@@ -172,7 +172,7 @@
 "description":"로켓 발사기를 장착합니다. 발사하면 충돌 시 대량의 범위 피해를 입히는 로켓을 발사합니다.",
 "displayIcon":"https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.541198,"maxDuration":1.541198,"mediaList":[{"id":632864455,"wwise":"https://media.valorant-api.com/sounds/632864455.wem",
 "wave":"https://media.valorant-api.com/sounds/632864455.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
 "displayName":"체임버",
@@ -207,7 +207,7 @@
 "description":"활성화하면 상체 직격 시 적을 처치할 수 있는 강력한 커스텀 저격총을 소환합니다. 보조 공격 시 조준합니다. 적을 처치하면 일정 시간 유지되는 둔화 영역을 생성하여 영역에 있는 플레이어의 속도를 늦춥니다.",
 "displayIcon":"https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.939385,"maxDuration":1.939385,"mediaList":[{"id":765052468,"wwise":"https://media.valorant-api.com/sounds/765052468.wem",
 "wave":"https://media.valorant-api.com/sounds/765052468.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"601dbbe7-43ce-be57-2a40-4abd24953621",
 "displayName":"케이/오",
@@ -242,7 +242,7 @@
 "description":"케이/오가 즉시 양극화된 레디어나이트 에너지를 과충전하여 넓은 범위에 파동을 방출합니다. 이 파동에 맞은 적은 짧은 시간 동안 제압됩니다. 케이/오는 과충전된 동안 전투 자극제 효과를 얻으며, 쓰러져도 다시 안정화할 수 있습니다.",
 "displayIcon":"https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.034417,"maxDuration":1.034417,"mediaList":[{"id":170847866,"wwise":"https://media.valorant-api.com/sounds/170847866.wem",
 "wave":"https://media.valorant-api.com/sounds/170847866.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"6f2a04ca-43e0-be17-7f36-b3908627744d",
 "displayName":"스카이",
@@ -277,7 +277,7 @@
 "description":"추적자 장신구를 장착합니다. 발사하면 추적자 셋을 보내 가장 가까운 적 셋을 쫓습니다. 추적자가 표적에 다다르면 해당 적의 시야를 제한합니다. 적이 추적자를 파괴할 수 있습니다.",
 "displayIcon":"https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.807344,"maxDuration":1.807344,"mediaList":[{"id":452875258,"wwise":"https://media.valorant-api.com/sounds/452875258.wem",
 "wave":"https://media.valorant-api.com/sounds/452875258.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"117ed9e3-49f3-6512-3ccf-0cada7e3823b",
 "displayName":"사이퍼",
@@ -313,7 +313,7 @@
 "description":"적 플레이어가 처치된 즉시 조준한 후 사용하면 생존한 모든 적 플레이어의 위치가 드러납니다.",
 "displayIcon":"https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":2.807927,"maxDuration":2.807927,"mediaList":[{"id":246514732,"wwise":"https://media.valorant-api.com/sounds/246514732.wem",
 "wave":"https://media.valorant-api.com/sounds/246514732.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"ded3520f-4264-bfed-162d-b080e2abccf9",
 "displayName":"소바",
@@ -344,7 +344,7 @@
 "description":"Sova's custom bow can fire his arrows and bounce them off terrain. Holding fire charges the bow's power, and the bolt is loosed when released. Press alt fire to change the number of bounces.Your arrows can bounce off terrain. Holding left click increases the bow's range trajectory. Right clicking Toggle through the desired number of terrain bounces by right clicking. The arrow is loosed when left click is released.",
 "displayIcon":null}],"voiceLine":{"minDuration":2.021729,"maxDuration":2.021729,"mediaList":[{"id":130865070,"wwise":"https://media.valorant-api.com/sounds/130865070.wem",
 "wave":"https://media.valorant-api.com/sounds/130865070.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"320b2a48-4d9b-a075-30f1-1f93a9b638fa",
 "displayName":"소바",
@@ -383,7 +383,7 @@
 "description":"소바가 직접 제작한 활로 지형지물에 맞으면 튕기는 화살을 발사합니다. 공격 버튼을 길게 누르면 활의 힘이 충전되며 놓으면 화살이 날아갑니다. 보조 공격을 누르면 화살이 튕기는 횟수가 변경됩니다. 화살은 지형지물에 맞고 튕길 수 있습니다. 마우스 왼쪽 버튼을 길게 누르면 활의 사거리가 증가합니다. 마우스 오른쪽 버튼을 누르면 화살이 지형지물에 튕기는 횟수를 설정할 수 있습니다. 마우스 왼쪽 버튼을 놓으면 화살이 발사됩니다.",
 "displayIcon":null}],"voiceLine":{"minDuration":2.021729,"maxDuration":2.021729,"mediaList":[{"id":130865070,"wwise":"https://media.valorant-api.com/sounds/130865070.wem",
 "wave":"https://media.valorant-api.com/sounds/130865070.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"1e58de9c-4950-5125-93e9-a0aee9f98746",
 "displayName":"킬조이",
@@ -419,7 +419,7 @@
 "description":"봉쇄 장치를 장착합니다. 발사하면 장치를 배치합니다. 대기시간 이후 범위 내 탐지된 모든 적을 구속합니다. 봉쇄 장치는 적에 의해 파괴될 수 있습니다.",
 "displayIcon":"https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":2.689708,"maxDuration":2.689708,"mediaList":[{"id":1062625853,"wwise":"https://media.valorant-api.com/sounds/1062625853.wem",
 "wave":"https://media.valorant-api.com/sounds/1062625853.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"95b78ed7-4637-86d9-7e41-71ba8c293152",
 "displayName":"하버",
@@ -454,7 +454,7 @@
 "description":"유물의 모든 힘을 장착합니다. 발사하면 지면에 간헐천을 소환합니다. 해당 지역 내에 있는 적 플레이어는 잇따른 간헐천 분출의 표적이 됩니다. 분출에 맞은 플레이어에게 뇌진탕을 일으킵니다.",
 "displayIcon":"https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.554083,"maxDuration":1.554083,"mediaList":[{"id":409447225,"wwise":"https://media.valorant-api.com/sounds/409447225.wem",
 "wave":"https://media.valorant-api.com/sounds/409447225.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"707eab51-4836-f488-046a-cda6bf494859",
 "displayName":"바이퍼",
@@ -492,7 +492,7 @@
 "description":"스킬의 연료로 사용되는 독을 서서히 생성하여 보충합니다. 바이퍼의 독성 연기, 독성 장막, 독사의 구덩이를 넘어가는 적에게는 즉시 최소 30의 부패가 적용됩니다. 오래 머무를수록 부패 효과가 증가합니다.",
 "displayIcon":null}],"voiceLine":{"minDuration":2.445958,"maxDuration":2.445958,"mediaList":[{"id":204662687,"wwise":"https://media.valorant-api.com/sounds/204662687.wem",
 "wave":"https://media.valorant-api.com/sounds/204662687.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"eb93336a-449b-9c1b-0a54-a891f7921d69",
 "displayName":"피닉스",
@@ -531,7 +531,7 @@
 "description":"기본 지속 효과로 피닉스가 자신이 일으킨 화염 속에 있으면 피해를 입는 대신 체력을 회복합니다.",
 "displayIcon":null}],"voiceLine":{"minDuration":2.258333,"maxDuration":2.258333,"mediaList":[{"id":384959611,"wwise":"https://media.valorant-api.com/sounds/384959611.wem",
 "wave":"https://media.valorant-api.com/sounds/384959611.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"41fb69c1-4189-7b37-f117-bcaf1e96f1bf",
 "displayName":"아스트라",
@@ -569,7 +569,7 @@
 "description":"궁극기 활성화 시 천상계 형상으로 변신하며, 주 공격으로 별을 설치할 수 있습니다. 별을 조준하면 신성 파동, 성운, 중력의 샘 스킬을 사용할 수 있습니다.",
 "displayIcon":"https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/passive/displayicon.png"}],"voiceLine":{"minDuration":3.18301,"maxDuration":3.18301,"mediaList":[{"id":594322343,"wwise":"https://media.valorant-api.com/sounds/594322343.wem",
 "wave":"https://media.valorant-api.com/sounds/594322343.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
 "displayName":"브림스톤",
@@ -605,7 +605,7 @@
 "description":"전술 지도를 장착합니다. 발사하면 선택한 위치에 궤도 일격 레이저를 쏘아 해당 영역에 있는 플레이어에게 큰 지속 피해를 입힙니다.",
 "displayIcon":"https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":4.969511,"maxDuration":4.969511,"mediaList":[{"id":421554800,"wwise":"https://media.valorant-api.com/sounds/421554800.wem",
 "wave":"https://media.valorant-api.com/sounds/421554800.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"bb2a4828-46eb-8cd1-e765-15848195d751",
 "displayName":"네온",
@@ -640,7 +640,7 @@
 "description":"짧은 시간 동안 네온의 모든 힘과 속도를 해방한다. 발사하면 힘을 집중해 이동 정확도가 높은 치명적인 번개 광선을 만들어낸다. 지속시간은 킬할 때마다 초기화된다.",
 "displayIcon":"https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.26851,"maxDuration":1.26851,"mediaList":[{"id":5690468,"wwise":"https://media.valorant-api.com/sounds/5690468.wem",
 "wave":"https://media.valorant-api.com/sounds/5690468.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"7f94d92c-4234-0a36-9646-3a87eb8b5c89",
 "displayName":"요루",
@@ -675,7 +675,7 @@
 "description":"차원 사이를 볼 수 있는 마스크를 장착합니다. 발사하면 요루의 차원을 표류합니다. 외부의 적에게 발각되거나 영향을 받지 않습니다. 다시 활성화하면 요루의 차원에서 일찍 빠져나옵니다.",
 "displayIcon":"https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":4.105177,"maxDuration":4.105177,"mediaList":[{"id":107320642,"wwise":"https://media.valorant-api.com/sounds/107320642.wem",
 "wave":"https://media.valorant-api.com/sounds/107320642.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"569fdd95-4d10-43ab-ca70-79becc718b46",
 "displayName":"세이지",
@@ -711,7 +711,7 @@
 "description":"부활 스킬을 장착합니다. 죽은 아군을 조준한 후 발사하면 해당 아군이 부활하기 시작합니다. 짧은 정신 집중이 끝나면 아군이 최대 체력으로 되살아납니다.",
 "displayIcon":"https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":2.07,"maxDuration":2.07,"mediaList":[{"id":119342169,"wwise":"https://media.valorant-api.com/sounds/119342169.wem",
 "wave":"https://media.valorant-api.com/sounds/119342169.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
 "displayName":"레이나",
@@ -747,7 +747,7 @@
 "description":"즉시 광란 상태가 되어 사격, 장착, 재장전 속도가 크게 증가합니다. 적을 처치하면 지속시간이 초기화됩니다.",
 "displayIcon":"https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":3.430208,"maxDuration":3.430208,"mediaList":[{"id":847719523,"wwise":"https://media.valorant-api.com/sounds/847719523.wem",
 "wave":"https://media.valorant-api.com/sounds/847719523.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"8e253930-4c05-31dd-1b6c-968525494517",
 "displayName":"오멘",
@@ -783,7 +783,7 @@
 "description":"전술 지도를 장착합니다. 발사하면 선택한 위치로 순간 이동을 시작합니다. 순간 이동 중에는 오멘이 그림자로 나타나며 이때 적이 그림자를 파괴하면 순간 이동이 취소됩니다.",
 "displayIcon":"https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":3.758667,"maxDuration":3.758667,"mediaList":[{"id":717842149,"wwise":"https://media.valorant-api.com/sounds/717842149.wem",
 "wave":"https://media.valorant-api.com/sounds/717842149.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
 },
 {"uuid":"add6443a-41bd-e414-f6ad-e58d267f4e95",
 "displayName":"제트",
@@ -822,4 +822,4 @@
 "description":"낙하 시 점프 버튼을 길게 누르면 활공합니다.",
 "displayIcon":"https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/passive/displayicon.png"}],"voiceLine":{"minDuration":1.048729,"maxDuration":1.048729,"mediaList":[{"id":878055936,"wwise":"https://media.valorant-api.com/sounds/878055936.wem",
 "wave":"https://media.valorant-api.com/sounds/878055936.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8",""]}]}
+,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]}]}
