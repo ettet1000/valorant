@@ -32,7 +32,7 @@
 "description":"요동봇을 장착합니다. 발사하면 요동봇의 정신과 연결되어 요동봇을 적 진영으로 조종합니다. 활성화하면 앞으로 돌진해 폭발하며 좁은 범위 안에 있는 적을 모두 구속합니다. 요동봇은 지속시간이 끝나면 작은 구체로 되돌아갑니다. 상호작용하면 구체를 회수하며, 짧은 재사용 대기시간 이후 요동봇을 다시 사용할 수 있습니다. 요동봇은 한 번만 회수할 수 있습니다.",
 "displayIcon":"https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":2.717865,"maxDuration":2.717865,"mediaList":[{"id":464327068,"wwise":"https://media.valorant-api.com/sounds/464327068.wem",
 "wave":"https://media.valorant-api.com/sounds/464327068.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
+,"videos":["1","2","3","4"]
 },
 {"uuid":"dade69b4-4f5a-8528-247b-219e5a1facd6",
 "displayName":"페이드",
