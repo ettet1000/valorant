@@ -137,7 +137,7 @@
 "description":"나노와이어 가속기를 장착합니다. 발사하면 처음 적중한 적을 생포하는 나노와이어 펄스를 발사합니다. 생포된 적은 나노와이어의 경로를 따라 끌려가며, 끝에 도달하기 전에 풀려나지 않으면 사망합니다. 나노와이어 고치는 파괴할 수 있습니다.",
 "displayIcon":"https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.761667,"maxDuration":1.761667,"mediaList":[{"id":727149664,"wwise":"https://media.valorant-api.com/sounds/727149664.wem",
 "wave":"https://media.valorant-api.com/sounds/727149664.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
+,"videos":["4wAUSAO4BEk","fV1Ct0e9hAs","UvnWgmvMDaQ","iW_mEuVcrEU"]
 },
 {"uuid":"f94c3b30-42be-e959-889c-5aa313dba261",
 "displayName":"레이즈",
@@ -172,7 +172,7 @@
 "description":"로켓 발사기를 장착합니다. 발사하면 충돌 시 대량의 범위 피해를 입히는 로켓을 발사합니다.",
 "displayIcon":"https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.541198,"maxDuration":1.541198,"mediaList":[{"id":632864455,"wwise":"https://media.valorant-api.com/sounds/632864455.wem",
 "wave":"https://media.valorant-api.com/sounds/632864455.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
+,"videos":["AVtUGTg5jcc","i2uzLIsil0Q","NVys5zxDnLc","kMH6qlF5ovk"]
 },
 {"uuid":"22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
 "displayName":"체임버",
@@ -207,7 +207,7 @@
 "description":"활성화하면 상체 직격 시 적을 처치할 수 있는 강력한 커스텀 저격총을 소환합니다. 보조 공격 시 조준합니다. 적을 처치하면 일정 시간 유지되는 둔화 영역을 생성하여 영역에 있는 플레이어의 속도를 늦춥니다.",
 "displayIcon":"https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.939385,"maxDuration":1.939385,"mediaList":[{"id":765052468,"wwise":"https://media.valorant-api.com/sounds/765052468.wem",
 "wave":"https://media.valorant-api.com/sounds/765052468.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
+,"videos":["AdjVdJu3IUM","uPjVid6VLLc","1e91nWpSzd0","EwPnH2NPHzk"]
 },
 {"uuid":"601dbbe7-43ce-be57-2a40-4abd24953621",
 "displayName":"케이/오",
@@ -242,7 +242,7 @@
 "description":"케이/오가 즉시 양극화된 레디어나이트 에너지를 과충전하여 넓은 범위에 파동을 방출합니다. 이 파동에 맞은 적은 짧은 시간 동안 제압됩니다. 케이/오는 과충전된 동안 전투 자극제 효과를 얻으며, 쓰러져도 다시 안정화할 수 있습니다.",
 "displayIcon":"https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.034417,"maxDuration":1.034417,"mediaList":[{"id":170847866,"wwise":"https://media.valorant-api.com/sounds/170847866.wem",
 "wave":"https://media.valorant-api.com/sounds/170847866.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
+,"videos":["RDCsYGhJ04Y","F3w_R3dXyHk","nTlA9YjWcbs","BUqA6xRNCU0"]
 },
 {"uuid":"6f2a04ca-43e0-be17-7f36-b3908627744d",
 "displayName":"스카이",
@@ -277,7 +277,7 @@
 "description":"추적자 장신구를 장착합니다. 발사하면 추적자 셋을 보내 가장 가까운 적 셋을 쫓습니다. 추적자가 표적에 다다르면 해당 적의 시야를 제한합니다. 적이 추적자를 파괴할 수 있습니다.",
 "displayIcon":"https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":1.807344,"maxDuration":1.807344,"mediaList":[{"id":452875258,"wwise":"https://media.valorant-api.com/sounds/452875258.wem",
 "wave":"https://media.valorant-api.com/sounds/452875258.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
+,"videos":["9kttcx3yjWQ","QNlN4I3LRHM","ye0C_PWKeD4","rV-14xuSEqU"]
 },
 {"uuid":"117ed9e3-49f3-6512-3ccf-0cada7e3823b",
 "displayName":"사이퍼",
@@ -313,7 +313,7 @@
 "description":"적 플레이어가 처치된 즉시 조준한 후 사용하면 생존한 모든 적 플레이어의 위치가 드러납니다.",
 "displayIcon":"https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/abilities/ultimate/displayicon.png"}],"voiceLine":{"minDuration":2.807927,"maxDuration":2.807927,"mediaList":[{"id":246514732,"wwise":"https://media.valorant-api.com/sounds/246514732.wem",
 "wave":"https://media.valorant-api.com/sounds/246514732.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
+,"videos":["LKn_-OzkP9U","WfsZoP43MLY","3U9J3lpZkyk","mxNKaerffQ4"]
 },
 {"uuid":"ded3520f-4264-bfed-162d-b080e2abccf9",
 "displayName":"소바",
@@ -328,23 +328,23 @@
 "101c47ff",
 "082652ff"],"assetPath":"ShooterGame/Content/Characters/Hunter/Hunter_NPE_PrimaryAsset",
 "isFullPortraitRightFacing":false,"isPlayableCharacter":false,"isAvailableForTest":false,"isBaseContent":false,"role":null,"abilities":[{"slot":"Ability1",
-"displayName":"Shock Bolt",
-"description":"EQUIP a bow with a shock bolt. FIRE to send the explosive bolt forward, detonating upon collision and damaging players nearby. HOLD FIRE to extend the range of the projectile. ALT FIRE to add up to two bounces to this arrow.",
-"displayIcon":"https://media.valorant-api.com/agents/ded3520f-4264-bfed-162d-b080e2abccf9/abilities/ability1/displayicon.png"},{"slot":"Ability2",
-"displayName":"Recon Bolt",
-"description":"EQUIP a bow with recon bolt. FIRE to send the recon bolt forward, activating upon collision and Revealing the location of nearby enemies caught in the line of sight of the bolt. Enemies can destroy this bolt. HOLD FIRE to extend the range of the projectile. ALT FIRE to add up to two bounces to this arrow. ",
-"displayIcon":"https://media.valorant-api.com/agents/ded3520f-4264-bfed-162d-b080e2abccf9/abilities/ability2/displayicon.png"},{"slot":"Grenade",
-"displayName":"Owl Drone",
-"description":"EQUIP an owl drone. FIRE to deploy and take control of movement of the drone. While in control of the drone, FIRE to shoot a marking dart. This dart will Reveal the location of any player struck by the dart. Enemies can destroy the Owl Drone.",
-"displayIcon":"https://media.valorant-api.com/agents/ded3520f-4264-bfed-162d-b080e2abccf9/abilities/grenade/displayicon.png"},{"slot":"Ultimate",
-"displayName":"Hunter's Fury",
-"description":"EQUIP a bow with three long-range, wall-piercing energy blasts. FIRE to release an energy blast in a line in front of Sova, dealing damage and Revealing the location of enemies caught in the line. This ability can be RE-USED up to two more times while the ability timer is active.",
-"displayIcon":"https://media.valorant-api.com/agents/ded3520f-4264-bfed-162d-b080e2abccf9/abilities/ultimate/displayicon.png"},{"slot":"Passive",
-"displayName":"Uncanny Marksman",
-"description":"Sova's custom bow can fire his arrows and bounce them off terrain. Holding fire charges the bow's power, and the bolt is loosed when released. Press alt fire to change the number of bounces.Your arrows can bounce off terrain. Holding left click increases the bow's range trajectory. Right clicking Toggle through the desired number of terrain bounces by right clicking. The arrow is loosed when left click is released.",
+"displayName":"충격 화살",
+"description":"충격 화살과 활을 장착합니다. 발사하면 충돌 시 폭발해 주변 플레이어에게 피해를 입히는 화살을 전방에 쏩니다. 발사를 길게 누르면 화살의 사거리가 늘어납니다. 보조 공격 시 화살이 최대 두 번 더 튕깁니다.",
+"displayIcon":"https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/abilities/ability1/displayicon.png"},{"slot":"Ability2",
+"displayName":"정찰용 화살",
+"description":"정찰 화살과 활을 장착합니다. 발사하면 정찰 화살을 전방에 쏘아 화살이 꽂힌 곳을 기준으로 모습이 드러난 주변 적의 위치를 표시합니다. 적이 이 화살을 파괴할 수 있습니다. 발사를 길게 누르면 화살의 사거리가 늘어납니다. 보조 공격 시 화살이 최대 두 번 더 튕깁니다.",
+"displayIcon":"https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/abilities/ability2/displayicon.png"},{"slot":"Grenade",
+"displayName":"올빼미 드론",
+"description":"올빼미 드론을 장착합니다. 발사하면 드론을 날려 조종합니다. 드론을 조종하는 동안 발사를 누르면 표식용 다트가 발사됩니다. 다트에 맞은 플레이어는 위치가 드러납니다. 적이 올빼미 드론을 파괴할 수 있습니다.",
+"displayIcon":"https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/abilities/grenade/displayicon.png"},{"slot":"Ultimate",
+"displayName":"사냥꾼의 분노",
+"description":"벽을 관통하는 에너지 3개를 장거리로 발사하는 활을 장착합니다. 발사하면 전방에 일직선상으로 에너지를 날려 닿은 적에게 피해를 입히고 위치를 드러냅니다. 스킬 지속시간이 활성화된 상태에서 최대 두 번 더 다시 사용할 수 있습니다.",
+"displayIcon":"https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/abilities/ultimate/displayicon.png"},{"slot":"Passive",
+"displayName":"뛰어난 명사수",
+"description":"소바가 직접 제작한 활로 지형지물에 맞으면 튕기는 화살을 발사합니다. 공격 버튼을 길게 누르면 활의 힘이 충전되며 놓으면 화살이 날아갑니다. 보조 공격을 누르면 화살이 튕기는 횟수가 변경됩니다. 화살은 지형지물에 맞고 튕길 수 있습니다. 마우스 왼쪽 버튼을 길게 누르면 활의 사거리가 증가합니다. 마우스 오른쪽 버튼을 누르면 화살이 지형지물에 튕기는 횟수를 설정할 수 있습니다. 마우스 왼쪽 버튼을 놓으면 화살이 발사됩니다.",
 "displayIcon":null}],"voiceLine":{"minDuration":2.021729,"maxDuration":2.021729,"mediaList":[{"id":130865070,"wwise":"https://media.valorant-api.com/sounds/130865070.wem",
 "wave":"https://media.valorant-api.com/sounds/130865070.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
+,"videos":["jrzqmDgqzuo","rcMe79obYwE","NKkohjP4fAI","Cv91d3XmIL0"]
 },
 {"uuid":"320b2a48-4d9b-a075-30f1-1f93a9b638fa",
 "displayName":"소바",
@@ -383,7 +383,7 @@
 "description":"소바가 직접 제작한 활로 지형지물에 맞으면 튕기는 화살을 발사합니다. 공격 버튼을 길게 누르면 활의 힘이 충전되며 놓으면 화살이 날아갑니다. 보조 공격을 누르면 화살이 튕기는 횟수가 변경됩니다. 화살은 지형지물에 맞고 튕길 수 있습니다. 마우스 왼쪽 버튼을 길게 누르면 활의 사거리가 증가합니다. 마우스 오른쪽 버튼을 누르면 화살이 지형지물에 튕기는 횟수를 설정할 수 있습니다. 마우스 왼쪽 버튼을 놓으면 화살이 발사됩니다.",
 "displayIcon":null}],"voiceLine":{"minDuration":2.021729,"maxDuration":2.021729,"mediaList":[{"id":130865070,"wwise":"https://media.valorant-api.com/sounds/130865070.wem",
 "wave":"https://media.valorant-api.com/sounds/130865070.wav"}]}
-,"videos":["YFn0mIDLn8g","wQkA_6yD5JI","cKRGTJJ0tNU","X5gq4vaYuB8"]
+,"videos":["jrzqmDgqzuo","rcMe79obYwE","NKkohjP4fAI","Cv91d3XmIL0"]
 },
 {"uuid":"1e58de9c-4950-5125-93e9-a0aee9f98746",
 "displayName":"킬조이",
